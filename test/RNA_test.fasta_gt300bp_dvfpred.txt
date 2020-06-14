@@ -1,0 +1,4 @@
+name	len	DNA_score	RNA_score
+HC907499 |Sequence 17652 from Patent EP2194140	951	0.33831438422203064	0.6616856455802917
+AF059315 |Macropodid herpesvirus type 1 thymidine kinase gene| complete cds	1291	0.02895338088274002	0.9710466265678406
+AF061755 |Macropodid herpesvirus type 2 glycoprotein B (UL27) gene| complete cds	2685	0.07945431023836136	0.9205456972122192
