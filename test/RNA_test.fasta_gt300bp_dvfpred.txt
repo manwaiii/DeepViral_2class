@@ -1,4 +1,197 @@
-name	len	DNA_score	RNA_score
-HC907499 |Sequence 17652 from Patent EP2194140	951	0.33831438422203064	0.6616856455802917
-AF059315 |Macropodid herpesvirus type 1 thymidine kinase gene| complete cds	1291	0.02895338088274002	0.9710466265678406
-AF061755 |Macropodid herpesvirus type 2 glycoprotein B (UL27) gene| complete cds	2685	0.07945431023836136	0.9205456972122192
+name	len	RNA_score	DNA_score	Prediction
+NC_043031 |Ferak feravirus|Ferak virus strain C51-CI-2004 segment L| complete sequence	6938	0.9570897817611694	0.04291020706295967
+NC_043032 |Ferak feravirus|Ferak virus strain C51-CI-2004 segment S| complete sequence	1527	0.8782130479812622	0.12178698182106018
+NC_043033 |Ferak feravirus|Ferak virus strain C51-CI-2004 segment M| complete sequence	4274	0.9653369784355164	0.03466302901506424
+NC_043034 |Thimiri orthobunyavirus|Thimiri virus RNA-dependent RNA polymerase gene| partial cds	958	0.9595466256141663	0.04045337438583374
+NC_043035 |Turlock orthobunyavirus|Umbre virus strain IG1424 nucleocapsid protein and NSs protein genes| complete cds	845	0.7726821899414062	0.22731779515743256
+NC_043036 |Turlock orthobunyavirus|Umbre virus strain IG1424 polyprotein gene| complete cds	4448	0.7999054193496704	0.2000945806503296
+NC_043037 |Turlock orthobunyavirus|Umbre virus strain IG1424 RNA-dependent RNA polymerase gene| complete cds	6924	0.9129133224487305	0.08708669245243073
+NC_043038 |Insect inshuvirus|Shuangao Insect Virus 2 strain QSA03 nucleopasid protein (S1) gene| complete cds	1959	0.5732072591781616	0.42679277062416077
+NC_043039 |Insect inshuvirus|Shuangao Insect Virus 2 strain QSA03 RNA-dependent RNA polymerase (L) gene| partial cds	4899	0.9709314107894897	0.029068592935800552
+NC_043040 |Insect inshuvirus|Shuangao Insect Virus 2 strain QSA03 glycoprotein precursor (G) gene| complete cds	2255	0.9206632971763611	0.07933668792247772
+NC_043041 |Insect inshuvirus|Shuangao Insect Virus 2 strain QSA03 nucleopasid protein (S2) gene| partial cds	1148	0.9866292476654053	0.013370799832046032
+NC_043045 |Cumuto goukovirus|Cumuto virus strain TR7904 segment L| complete sequence	6367	0.9732633233070374	0.026736702769994736
+NC_043046 |Cumuto goukovirus|Cumuto virus strain TR7904 segment M| complete sequence	3269	0.9829404354095459	0.017059512436389923
+NC_043047 |Cumuto goukovirus|Cumuto virus strain TR7904 segment S| complete sequence	1176	0.9392428398132324	0.060757122933864594
+NC_043049 |Gouleako goukovirus|Gouleako virus strain A5/CI/2004 segment M| complete sequence	3188	0.9847482442855835	0.015251759439706802
+NC_043050 |Gouleako goukovirus|Gouleako virus strain A5/CI/2004 segment S| complete sequence	1087	0.9549917578697205	0.045008234679698944
+NC_043051 |Gouleako goukovirus|Gouleako virus strain A5/CI/2004 segment L| complete sequence	6358	0.9410209655761719	0.05897906422615051
+NC_043064 |Strawberry crinkle cytorhabdovirus|Strawberry crinkle virus isolate HB-A1 L protein (RdRp) mRNA| partial cds	1638	0.908275842666626	0.09172414243221283
+NC_043065 |Drosophila tristis sigmavirus|Drosophila tristis sigmavirus RNA-dependent RNA polymerase (L) gene| partial cds	5347	0.7690232396125793	0.23097677528858185
+NC_043066 |Muscina stabulans sigmavirus|Muscina stabulans sigma virus RNA-dependent RNA polymerase (L) gene| partial cds	2850	0.8228728771209717	0.17712710797786713
+NC_043067 |Bas-Congo tibrovirus|Bas-Congo virus isolate BASV-1 N protein gene| partial cds; P protein| M protein| U1 protein| U2 protein| G protein| and U3 protein genes| complete cds; and L protein gene| partial cds	11892	0.6016861200332642	0.39831387996673584
+NC_043068 |Asikkala orthohantavirus|Asikkala virus strain CZ/Beskydy/412/2010/Sm segment L| complete sequence	1458	0.26281529664993286	0.7371847033500671
+NC_043069 |Asikkala orthohantavirus|Asikkala virus strain CZ/Beskydy/412/2010/Sm segment M| complete sequence	3628	0.7304161787033081	0.2695838212966919
+NC_043070 |Asikkala orthohantavirus|Asikkala virus strain CZ/Beskydy/412/2010/Sm segment S| complete sequence	1526	0.7150269746780396	0.28497299551963806
+NC_043071 |Aichivirus F|Bat picornavirus isolate BtMr-PicoV/JX2010 polyprotein gene| partial cds	7555	0.1981532722711563	0.8018467426300049
+NC_043072 |Mischivirus B|Bat picornavirus strain BatPV/V1/13/Hun polyprotein gene| partial cds	6855	0.8842602968215942	0.11573971807956696
+NC_043073 |Black Creek Canal orthohantavirus|Black Creek Canal virus M segment	3668	0.8398948907852173	0.16010507941246033
+NC_043074 |Black Creek Canal orthohantavirus|Black Creek Canal virus partial L segment	410	0.7403765916824341	0.25962337851524353
+NC_043075 |Black Creek Canal orthohantavirus|Black Creek Canal virus S segment sequence	1989	0.9274614453315735	0.0725385770201683
+NC_043076 |Blueberry leaf mottle virus|Blueberry leaf mottle virus segment RNA2 polyprotein gene| partial cds	3082	0.30269670486450195	0.697303295135498
+NC_043078 |Dandelion yellow mosaic virus|Dandelion yellow mosaic virus isolate DSM2 RNA-dependent RNA polymerase gene| partial cds	788	0.8755189776420593	0.12448102235794067
+NC_043079 |Lagenaria mild mosaic virus|Lagenaria mild mosaic virus RdRP| TGB1| TGB2| TGB3| CP genes| partial and complete cds	3860	0.3569561839103699	0.6430438160896301
+NC_043080 |Caper latent virus|Caper latent virus isolate L7 RNA-dependent RNA polymerase (RdRp) gene| partial cds	1120	0.9380212426185608	0.06197875365614891
+NC_043081 |Cucumber vein-clearing virus|Cucumber vein-clearing virus RNA-dependent RNA polymerase gene| partial cds; and triple gene block protein 1| triple gene block protein 2| triple gene block protein 3| coat protein| and nucleic acid binding protein genes| complete cds	5218	0.7530056238174438	0.24699437618255615
+NC_043082 |Helleborus mosaic virus|Helleborus mosaic virus replicase polyprotein gene| partial cds; and triple gene block protein 1| triple gene block protein 2| triple gene block protein 3| capsid protein| and putative nucleic acid binding protein genes| complete cds	3030	0.4149354100227356	0.5850645899772644
+NC_043083 |Phlox virus M|Phlox Virus M isolate PhlVM-CA triple gene block 3 protein gene| partial cds; and coat protein and nucleic acid binding protein genes| complete cds	1408	0.1915431171655655	0.8084568977355957
+NC_043085 |Verbena latent virus|Verbena latent virus isolate NZ 25 KDa protein (TGB1) and 12 KDa protein (TGB2) genes| partial cds	560	0.8001906871795654	0.19980928301811218
+NC_043086 |Banana virus X|Banana virus X RNA-dependent RNA polymerase gene| partial cds; and triple gene block protein 1| triple gene block protein 2| triple gene block protein 3| and capsid protein genes| complete cds	2917	0.5480182766914368	0.45198172330856323
+NC_043087 |Actinidia virus A|Actinidia virus A isolate TP7-93A putative replicase (ORF1) gene| partial cds; and hypothetical protein (ORF2)| movement protein (ORF3)| coat protein (ORF4)| and RNA-binding protein (ORF5) genes| complete cds	7566	0.24640148878097534	0.7535985112190247
+NC_043088 |Mint virus 2|Mint virus 2 replicase gene| partial cds; and p24| movement protein| coat protein| and RNA binding protein genes| complete cds	3897	0.7200878858566284	0.2799121141433716
+NC_043089 |Passion fruit yellow mosaic virus|Passion fruit yellow mosaic virus polymerase protein gene| partial cds; and coat protein gene| complete cds	1115	0.5837646722793579	0.4162352979183197
+NC_043090 |Petunia vein banding virus|Petunia vein banding virus replicase gene| partial cds; and coat protein gene| complete cds	994	0.9776488542556763	0.02235116809606552
+NC_043091 |Wild cucumber mosaic virus|Wild cucumber mosaic virus replicase protein gene| partial cds; and virion protein gene| complete cds	1379	0.3715893030166626	0.6284106969833374
+NC_043095 |Vicia cryptic virus M|Vicia cryptic virus M| partial genomic sequence	3434	0.33494994044303894	0.6650500297546387
+NC_043096 |Mamastrovirus 7|Bottlenose dolphin astrovirus 1 RNA-dependent RNA polymerase gene| partial cds; and capsid protein gene| complete cds	3990	0.4119966924190521	0.5880032777786255
+NC_043097 |Mamastrovirus 11|Mamastrovirus 11 RNA-dependent RNA polymerase gene| partial cds; and capsid protein gene| complete cds	3179	0.48041972517967224	0.5195802450180054
+NC_043098 |Mamastrovirus 12|Bat astrovirus Tm/Guangxi/LD71/2007 non-structural polyprotein 1AB (pol) gene| partial cds; and capsid protein precursor (ORF2) gene| complete cds	3975	0.3871614634990692	0.6128385066986084
+NC_043099 |Mamastrovirus 14|Mamastrovirus 14 isolate AFCD57 polyprotein 1AB gene| partial cds; and capsid protein precursor| gene| complete cds	3371	0.5360770225524902	0.46392300724983215
+NC_043100 |Mamastrovirus 15|Bat astrovirus Tm/Guangxi/LD77/2007 non-structural polyprotein 1AB (pol) gene| partial cds; and capsid protein precursor (ORF2) gene| complete cds	3875	0.22066612541675568	0.7793338894844055
+NC_043101 |Mamastrovirus 16|Mamastrovirus 16 isolate AFCD11 polyprotein 1AB gene| partial cds; and capsid protein precursor| gene| complete cds	3180	0.26421570777893066	0.7357842922210693
+NC_043102 |Mamastrovirus 18|Mamastrovirus 18 isolate AFCD337 polyprotein 1AB and polyprotein 1a genes| partial cds; and capsid protein precursor| gene| complete cds	5083	0.037092987447977066	0.9629069566726685
+NC_043103 |Mamastrovirus 19|Bat astrovirus Tm/Guangxi/LD38/2007 non-structural polyprotein 1AB (pol) gene| partial cds; and capsid protein precursor (ORF2) gene| complete cds	4241	0.16970381140708923	0.8302961587905884
+NC_043105 |Pineapple mealybug wilt-associated virus 2|Pineapple mealybug wilt associated virus-2 polyprotein (ORF1a) and RNA-dependent RNA polymerase genes| partial cds; and hydrophobic protein p5| heat shock protein 70| p46| coat protein| diverged coat protein| p20| p22| and p6 genes| complete cds	14861	0.06455374509096146	0.9354462623596191
+NC_043106 |Beet yellow stunt virus|Beet yellow stunt virus helicase gene| partial cds; and RNA replicase| p30| p6| p66| p61| p25| coat protein| p18| and p22 genes| complete cds	10545	0.4192389249801636	0.5807610750198364
+NC_043107 |Cordyline virus 3|Cordyline virus 3 polyprotein gene| partial cds; and RNA-dependent RNA polymerase| 6.8 kDa transmembrane protein| heat shock protein 70-like protein| 9.5 kDa protein| 60.2 kDa protein| coat protein| minor coat protein| 25.4 kDa protein| and 28.4 kDa protein genes| complete cds	16274	0.6710509061813354	0.3289491534233093
+NC_043108 |Cordyline virus 4|Cordyline virus 4 polyprotein gene| partial cds; and RNA-dependent RNA polymerase| heat shock protein 70-like protein| putative 4.4 kDa transmembrane protein| 9.7 kDa protein| 61.2 kDa protein| coat protein| minor coat protein| 25.8 kDa protein| and 28.7 kDa protein genes| complete cds	14619	0.7275155782699585	0.2724843919277191
+NC_043109 |Basella alba alphaendornavirus 1|Basella alba endornavirus genomic RNA| complete sequence	14027	0.6742168068885803	0.3257831931114197
+NC_043110 |Banzi virus|Banzi virus strain SAH 336 polyprotein gene| complete cds	10182	0.9109119176864624	0.08908809721469879
+NC_043111 |Bukalasa bat virus|Bukalasa bat virus strain UGBP-111 NS5 protein (NS5) gene| partial cds	1011	0.898817777633667	0.10118220746517181
+NC_043112 |Carey Island virus|Carey Island virus strain P70-1215 NS5 protein (NS5) gene| partial cds	1011	0.5379598736763	0.46204012632369995
+NC_043113 |Cowbone Ridge virus|Cowbone Ridge virus strain W-10986 NS5 protein (NS5) gene| partial cds	1011	0.9764289855957031	0.02357097901403904
+NC_043114 |Dakar bat virus|Dakar bat virus strain 209 NS5 protein (NS5) gene| partial cds	1011	0.962643027305603	0.03735692799091339
+NC_043115 |Israel turkey meningoencephalomyelitis virus|Israel turkey meningoencephalitis virus NS5 protein (NS5) gene| partial cds	1035	0.9119573831558228	0.08804260194301605
+NC_043116 |Koutango virus|Koutango virus strain Dak Ar D1470 NS5 protein (NS5) gene| partial cds	1035	0.901705801486969	0.098294198513031
+NC_043117 |Sal Vieja virus|Sal Vieja virus strain 38TWM-106 NS5 protein (NS5) gene| partial cds	1011	0.6795979738235474	0.32040199637413025
+NC_043118 |San Perlita virus|San Perlita virus strain 71V-1251 NS5 protein (NS5) gene| partial cds	1011	0.540679395198822	0.459320604801178
+NC_043123 |Barley yellow dwarf virus kerIII|Barley yellow dwarf virus Ker-III isolate K460 RNA-dependent RNA polymerase P1-P2 fusion (ORF1) and RNA-dependent RNA polymerase P1 (ORF1) genes| partial cds; and aphid transmission protein P5 (ORF3)| coat protein P3 (ORF3)| and movement protein P4 (ORF4) genes| complete cds	4625	0.47757530212402344	0.5224246978759766
+NC_043124 |Barley yellow dwarf virus SGV|Barley yellow dwarf virus-SGV RNA-dependent RNA polymerase P1-P2 fusion protein and putative coat protein P3 genes| partial cds; and putative movement protein P4 gene| complete cds	1262	0.321487694978714	0.6785123348236084
+NC_043125 |Longquan loanvirus|Longquan virus strain Longquan-Rs-32 L protein gene| partial cds	324	0.16342179477214813	0.8365781903266907
+NC_043126 |Longquan loanvirus|Longquan virus strain Longquan-Rs-32 nucleocapsid gene| complete cds	1564	0.4196850657463074	0.5803149342536926
+NC_043127 |Longquan loanvirus|Longquan virus strain Longquan-Rs-32 glycoprotein gene| complete cds	3619	0.7889537811279297	0.2110462337732315
+NC_043132 |Alpinia mosaic virus|Alpinia mosaic virus polyprotein gene| partial cds	1731	0.9707950353622437	0.029204946011304855
+NC_043133 |Maclura mosaic virus|Maclura mosaic virus polyprotein mRNA| partial NIb and complete coat protein region| partial cds	2413	0.832747220993042	0.16725283861160278
+NC_043134 |Narcissus latent virus|Narcissus latent virus polyprotein gene| partial cds	1815	0.8859941959381104	0.11400584131479263
+NC_043135 |Alstroemeria mosaic virus|Alstroemeria mosaic virus NIb/CP gene for nuclear inclusion protein b/coat protein| partial cds	1867	0.9704443216323853	0.02955564111471176
+NC_043136 |Alternanthera mild mosaic virus|Alternanthera mild mosaic virus polyprotein gene| partial cds	1772	0.8845095634460449	0.11549040675163269
+NC_043137 |Amazon lily mosaic virus|Amazon lily mosaic virus NIb/CP gene for nuclear inclusion protein b/coat protein| partial cds	1298	0.8274056911468506	0.17259430885314941
+NC_043138 |Angelica virus Y|Angelica virus Y isolate AnVY-g polyprotein gene| partial cds	1888	0.7528800964355469	0.24711988866329193
+NC_043139 |Araujia mosaic virus|Araujia mosaic virus isolate ARG1973 polyprotein gene| partial cds	1719	0.9274098873138428	0.07259011268615723
+NC_043140 |Calanthe mild mosaic virus|Calanthe mild mosaic potyvirus RNA for polyprotein (NIb/CP region)| partial cds	1306	0.8879398703575134	0.11206013709306717
+NC_043141 |Carnation vein mottle virus|Carnation vein mottle virus gene for plyprotein| partial cds and 3'-terminal region	2326	0.7312757968902588	0.2687242031097412
+NC_043142 |Carrot virus Y|Carrot virus Y country Australia polyprotein gene| partial cds	1754	0.8595643043518066	0.14043568074703217
+NC_043143 |Ceratobium mosaic virus|Ceratobium mosaic potyvirus strain CerMV-13 polyprotein (NIb/CP) gene| partial cds	1720	0.4293743073940277	0.5706256628036499
+NC_043144 |Chinese artichoke mosaic virus|Chinese artichoke mosaic virus gene for polyprotein| partial cds	1675	0.9892507791519165	0.010749179869890213
+NC_043145 |Clitoria virus Y|Clitoria virus Y polyprotein gene| partial cds	1720	0.964479923248291	0.035520099103450775
+NC_043146 |Cypripedium virus Y|Cypripedium virus Y isolate CP polyprotein gene| partial cds	1642	0.8218203186988831	0.17817968130111694
+NC_043147 |Diuris virus Y|Diuris virus Y polyprotein gene| partial cds	1719	0.8578716516494751	0.14212831854820251
+NC_043148 |Hibbertia virus Y|Hibbertia virus Y polyprotein gene| partial cds	1707	0.9632164239883423	0.036783572286367416
+NC_043149 |Iris mild mosaic virus|Iris mild mosaic virus isolate WA-1 polyprotein gene| partial cds	8651	0.7633316516876221	0.23666837811470032
+NC_043150 |Kalanchoe mosaic virus|Kalanchoe mosaic virus isolate F39 polyprotein gene| partial cds	1140	0.07259974628686905	0.9274002313613892
+NC_043151 |Lycoris mild mottle virus|Lycoris mild mottle virus polyprotein gene| partial cds	1989	0.8792068958282471	0.12079311162233353
+NC_043152 |Meadow saffron breaking virus|Meadow saffron breaking virus polyprotein gene| partial cds	1625	0.9853595495223999	0.014640459790825844
+NC_043153 |Nerine yellow stripe virus|Nerine yellow stripe virus polyprotein gene| partial cds	1605	0.9522180557250977	0.04778189957141876
+NC_043154 |Ornithogalum virus 2|Ornithogalum virus 2 gene for polyprotein| partial cds	1590	0.7857968807220459	0.2142031341791153
+NC_043155 |Ornithogalum virus 3|Ornithogalum virus 3 gene for polyprotein| partial cds	1147	0.7840304970741272	0.2159695029258728
+NC_043156 |Passiflora chlorosis virus|Passiflora chlorosis virus isolate Florida coat protein gene| partial cds	1439	0.9844309091567993	0.015569082461297512
+NC_043157 |Pfaffia mosaic virus|Pfaffia mosaic virus polyprotein mRNA| partial cds	1724	0.9739099740982056	0.026089970022439957
+NC_043158 |Pleione virus Y|Pleione virus Y polyprotein gene| partial cds	1645	0.7860333919525146	0.21396662294864655
+NC_043159 |Ranunculus leaf distortion virus|Ranunculus leaf distortion virus polyprotein gene| partial cds	1540	0.9350908994674683	0.06490912288427353
+NC_043160 |Ranunculus mild mosaic virus|Ranunculus mild mosaic virus polyprotein gene| partial cds	1548	0.8498107194900513	0.15018925070762634
+NC_043161 |Ranunculus mosaic virus|Ranunculus mosaic virus polyprotein gene| partial cds	1591	0.9784552454948425	0.021544765681028366
+NC_043162 |Rhopalanthe virus Y|Rhopalanthe virus Y polyprotein gene| partial cds	1622	0.5392969846725464	0.4607030153274536
+NC_043163 |Sarcochilus virus Y|Sarcochilus virus Y polyprotein gene| partial cds	1685	0.6081264615058899	0.3918735384941101
+NC_043164 |Spiranthes mosaic virus 3|Spiranthes mosaic virus 3 polyprotein gene| partial cds	1560	0.9895224571228027	0.010477498173713684
+NC_043165 |Sunflower mosaic virus|Sunflower mosaic virus polyprotein gene| partial cds	2646	0.7697139978408813	0.23028595745563507
+NC_043166 |Tradescantia mild mosaic virus|Tradescantia mild mosaic potyvirus polyprotein gene| partial cds	1514	0.7743714451789856	0.2256285399198532
+NC_043167 |Tuberose mild mosaic virus|Tuberose mild mosaic potyvirus polyprotein precursor gene| partial cds	1934	0.9639729857444763	0.036027032881975174
+NC_043168 |Tulip breaking virus|Tulip breaking virus isolate Texas Flame polyprotein gene| partial cds	3414	0.7945139408111572	0.20548604428768158
+NC_043169 |Twisted-stalk chlorotic streak virus|Twisted-stalk chlorotic streak virus Denali 2001 polyprotein gene| partial cds and 3' UTR	1625	0.6611068844795227	0.3388931155204773
+NC_043170 |Vallota mosaic virus|Vallota mosaic virus polyprotein gene| partial cds	1612	0.5333759784698486	0.46662405133247375
+NC_043171 |Watermelon leaf mottle virus|Watermelon leaf mottle virus polyprotein gene| partial cds	2316	0.4579356908798218	0.5420643091201782
+NC_043172 |Zucchini shoestring virus|Zucchini shoestring virus polyprotein gene| complete cds; and PIPO gene| partial cds	10308	0.8960949182510376	0.1039050742983818
+NC_043173 |Zucchini yellow fleck virus|Zucchini yellow fleck virus isolate It polyprotein gene| partial cds	1711	0.5934069156646729	0.40659308433532715
+NC_043174 |Oxbow orthohantavirus|Oxbow virus strain Ng1453 nucleocapsid gene| complete cds	1705	0.7981381416320801	0.20186182856559753
+NC_043175 |Oxbow orthohantavirus|Oxbow virus strain Ng1453 RNA-dependent RNA polymerase gene| partial cds	4383	0.7960737943649292	0.2039262056350708
+NC_043176 |Oxbow orthohantavirus|Oxbow virus strain Ng1453 glycoprotein gene| complete cds	3643	0.6663541793823242	0.3336458206176758
+NC_043177 |Spartina mottle virus|Spartina mottle virus from Germany polyprotein gene| partial cds	1635	0.9077879190444946	0.09221205115318298
+NC_043180 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 1 VP1 gene| partial cds	4243	0.9566534757614136	0.04334651678800583
+NC_043181 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 10 VP10 gene| complete cds	1265	0.9874027967453003	0.012597203254699707
+NC_043182 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 6 VP6 gene| complete cds	2141	0.8866292238235474	0.11337080597877502
+NC_043183 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 3 VP3 gene| complete cds	2710	0.9704667329788208	0.029533253982663155
+NC_043184 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 4 VP4 gene| complete cds	2441	0.8122097253799438	0.18779031932353973
+NC_043185 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 2 VP2 gene| complete cds	2711	0.9757646918296814	0.024235334247350693
+NC_043186 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 7 VP7 gene| complete cds	1522	0.9613165259361267	0.03868349641561508
+NC_043187 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 8 VP8 gene| complete cds	1233	0.9303505420684814	0.06964942812919617
+NC_043188 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 9 VP9 gene| complete cds	1179	0.9000887870788574	0.09991118311882019
+NC_043189 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 12 VP12 gene| complete cds	1186	0.8715536594390869	0.1284463107585907
+NC_043190 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 5 VP5 gene| complete cds	2082	0.5126138925552368	0.4873860776424408
+NC_043191 |Eriocheir sinensis reovirus|Eriocheir sinensis reovirus strain WX-2012 segment 11 VP11 gene| complete cds	1200	0.9581730365753174	0.04182698577642441
+NC_043192 |Wongorr virus|Wongorr virus strain mrm13443 core protein VP3 gene| partial cds	1236	0.8241063356399536	0.175893634557724
+NC_043197 |Macrobrachium satellite virus 1|Macrobrachium rosenbergii XSV virus capsid protein gene| complete cds	796	0.6394772529602051	0.36052268743515015
+NC_043198 |Trocara virus|Trocara virus strain BeAr422431 E1 protein mRNA| partial cds	1005	0.034026212990283966	0.9659737944602966
+NC_043199 |Una virus|Una virus nonstructural protein 1 (nsP1) gene| partial cds	381	0.32117679715156555	0.6788232326507568
+NC_043206 |Tobacco mottle virus|Tobacco mottle virus RNA-dependent RNA polymerase gene| partial cds; and long-distance movement protein and cell-to-cell movement protein genes| complete cds	2159	0.3386722505092621	0.6613277196884155
+NC_043207 |Frijoles phlebovirus|Frijoles virus VP-161A polyprotein gene| partial cds	574	0.7477337121963501	0.2522662281990051
+NC_043208 |Frijoles phlebovirus|Frijoles virus VP-161A N protein gene| partial cds	461	0.6431983113288879	0.35680171847343445
+NC_043209 |Frijoles phlebovirus|Frijoles virus VP-161A RNA-dependent RNA polymerase gene| partial cds	771	0.961862325668335	0.03813766688108444
+NC_043210 |Groundnut yellow spot tospovirus|Groundnut yellow spot virus isolate SP-C segment S| complete sequence	3006	0.942604660987854	0.0573953241109848
+NC_043211 |Equine torovirus|Berne virus mRNA for peplomer protein	4837	0.7653433084487915	0.2346566915512085
+NC_043212 |Equine torovirus|Berne Virus mRNA for envelope protein	799	0.848388671875	0.151611328125
+NC_043213 |Equine torovirus|Equine torovirus strain Berne 5' UTR and replicase polyprotein 1a (ORF1a) gene| complete cds	14531	0.7477338910102844	0.2522661089897156
+NC_043218 |Fusarium oxysporum chrysovirus 1|Fusarium oxysporum chrysovirus 1 putative RNA polymerase gene| partial cds	2574	0.16751813888549805	0.832481861114502
+NC_043219 |Fusarium oxysporum chrysovirus 1|Fusarium oxysporum chrysovirus 1 coat protein gene| partial cds	648	0.6936440467834473	0.30635592341423035
+NC_043220 |Fusarium oxysporum chrysovirus 1|Fusarium oxysporum chrysovirus 1 nonfunctional putative protease gene| partial sequence	994	0.8990245461463928	0.10097543150186539
+NC_043221 |Abutilon yellows virus|Abutilon yellows virus methyltransferase gene| partial cds	555	0.34753698110580444	0.6524630188941956
+NC_043222 |Abutilon yellows virus|Abutilon yellows virus coat protein gene| complete cds	756	0.8523930311203003	0.1476069837808609
+NC_043229 |Johnston Atoll quaranjavirus|Johnston Atoll virus isolate LBJ polymerase PB1 (PB1) gene| complete cds	2338	0.8433982729911804	0.15660174190998077
+NC_043230 |Johnston Atoll quaranjavirus|Johnston Atoll virus isolate LBJ hemagglutinin (HA) gene| complete cds	1229	0.9111989736557007	0.0888010561466217
+NC_043231 |Thosea asigna virus|Thosea asigna virus capsid protein precursor (TaV-CP) mRNA| complete cds	2482	0.02876053750514984	0.971239447593689
+NC_043232 |Thosea asigna virus|Thosea asigna virus RNA-dependent RNA polymerase (RdRp) gene| complete cds; and capsid protein gene| partial cds	3858	0.16378271579742432	0.8362172842025757
+NC_043367 |Idnoreovirus 1|Diadromus pulchellus reovirus 1.318kb RNA segment	1318	0.7120806574821472	0.2879193425178528
+NC_043368 |Idnoreovirus 1|Diadromus pulchellus reovirus 4.230kb RNA segment	4230	0.864111065864563	0.13588891923427582
+NC_043369 |Idnoreovirus 1|Diadromus pulchellus reovirus ORF2	3812	0.27449941635131836	0.7255005836486816
+NC_043370 |Idnoreovirus 1|Diadromus pulchellus reovirus ORF1	3333	0.3807385265827179	0.6192615032196045
+NC_043371 |Idnoreovirus 1|Diadromus pulchellus reovirus 1.24kb RNA segment	1240	0.5721197128295898	0.42788028717041016
+NC_043372 |Idnoreovirus 1|Diadromus pulchellus reovirus 0.98kb RNA segment	985	0.8419626951217651	0.15803731977939606
+NC_043373 |Idnoreovirus 1|Diadromus pulchellus reovirus 1.652kb RNA segment	1652	0.7017878890037537	0.29821211099624634
+NC_043383 |Sunn-hemp mosaic virus|Sunn-hemp mosaic virus 129 kDa replicase mRNA| complete cds	4683	0.10238619148731232	0.8976137638092041
+NC_043384 |Sunn-hemp mosaic virus|Sunn-hemp mosaic virus 165 kDa protein gene| partial cds; and 30 kDa protein and coat protein genes| complete cds	1800	0.19541135430335999	0.8045886754989624
+NC_043385 |Broad bean stain virus|Broad bean stain virus segment RNA2| complete sequence	3478	0.6723462343215942	0.3276537358760834
+NC_043387 |Stocky prune virus|Stocky prune virus segment RNA-2 polyprotein gene| partial cds	1794	0.18077799677848816	0.8192219734191895
+NC_043388 |Stocky prune virus|Stocky prune virus segment RNA-1 polyprotein gene| partial cds	2644	0.4059317111968994	0.5940682888031006
+NC_043389 |Ranunculus white mottle ophiovirus|Ranunculus white mottle virus segment RNA1 putative RNA polymerase gene| partial cds	4018	0.889006495475769	0.11099354177713394
+NC_043390 |Tulip mild mottle mosaic ophiovirus|Tulip mild mottle mosaic virus coat protein (CP) gene| partial cds	1265	0.9492291808128357	0.0507708340883255
+NC_043392 |Helicobasidium mompa partitivirus V70|Helicobasidium mompa dsRNA mycovirus gene for RNA-dependent RNA polymerase| complete cds	1928	0.26663053035736084	0.7333694696426392
+NC_043393 |Heterobasidion partitivirus P|Heterobasidion annosum P-type partitivirus putative RNA dependent RNA polymerase gene| complete cds	2325	0.4202384352684021	0.5797615051269531
+NC_043394 |Beet cryptic virus 3|putative RNA-dependent RNA polymerase {double-stranded RNA2} [beet cryptic virus 3 BCV3| Genomic RNA| 1607 nt]	1607	0.2882198095321655	0.7117801904678345
+NC_043395 |Aspergillus ochraceous virus|Aspergillus ochraceous virus strain FA0611 segment RNA3| complete sequence	1220	0.16428416967391968	0.8357158303260803
+NC_043396 |Aspergillus ochraceous virus|Aspergillus ochraceous virus strain FA0611 putative RNA dependent RNA polymerase gene| complete cds	1754	0.8264566659927368	0.17354336380958557
+NC_043397 |Aspergillus ochraceous virus|Aspergillus ochraceous virus strain FA0611 capsid protein gene| complete cds	1555	0.9645228385925293	0.03547712415456772
+NC_043398 |Drakaea virus A|Drakaea virus A isolate Canning Mills replicase (ORF1) gene| partial cds	4490	0.10383936762809753	0.8961606025695801
+NC_043399 |Drakaea virus A|Drakaea virus A isolate Canning Mills coat protein (ORF1) gene| partial cds; and TGBp1 (ORF2)| TGBp2 (ORF3)| TGBp3 (ORF4)| and 16 kDa protein (ORF5) genes| complete cds	2905	0.26503443717956543	0.7349655628204346
+NC_043400 |Poa semilatent virus|Poa semilatent virus beta genomic segment beta-A| beta-B| beta-C and beta-D protein genes| complete cds	3591	0.32442355155944824	0.6755764484405518
+NC_043401 |Poa semilatent virus|Poa semilatent virus gamma genomic segment gamma-A gene| partial cds and gamma-B protein gene| complete cds	1519	0.15013734996318817	0.8498626947402954
+NC_043402 |Trocara virus|Trocara virus non structural polyprotein gene| partial cds; and structural polyprotein gene| complete cds	12052	0.29075366258621216	0.7092463374137878
+NC_043403 |Una virus|Una virus non structural polyprotein gene| partial cds; and structural polyprotein gene| complete cds	11964	0.09160779416561127	0.9083921909332275
+NC_043406 |Pineapple mealybug wilt-associated virus 3|Pineapple mealybug wilt-associated virus 3 ORF1a and RNA dependent RNA polymerase (RdRp) genes| partial cds; p6 gene| complete sequence; and mall hydrophobic 5.65 kDa protein| heat shock 70-like protein (hsp70h)| 61.0 kDa protein (p61)| 28.8 kDa putative coat protein (CP)| and 24.1 kDa protein (p24) genes| complete cds	11872	0.4662076234817505	0.5337923765182495
+NC_043407 |Necocli orthohantavirus|Necocli virus strain HV O0020002 RNA-dependent RNA polymerase gene| partial cds	403	0.6377907991409302	0.3622092008590698
+NC_043408 |Necocli orthohantavirus|Necocli virus strain HV O0020002 segment M| complete sequence	3637	0.6536461114883423	0.3463538885116577
+NC_043409 |Necocli orthohantavirus|Necocli virus strain HV O0020002 segment S| complete sequence	1960	0.838793158531189	0.1612069010734558
+NC_043411 |Apricot latent ringspot virus|Apricot latent ringspot virus partial mRNA for capsid protein	2218	0.3361627757549286	0.663837194442749
+NC_043412 |Phlomis mottle virus|Phlomis mottle virus RdRpol gene (partial)| MP gene| CP gene and ORF4| genomic RNA	3035	0.762136697769165	0.23786325752735138
+NC_043416 |Mamastrovirus 5|Astrovirus dogfaeces/Italy/2005 partial RNA-dependant RNA polymerase| genomic RNA	2756	0.8647887706756592	0.13521122932434082
+NC_043417 |Olive leaf yellowing-associated virus|Olive leaf yellowing associated virus partial RdRp gene| ORF 1-3 and partial ORF4| genomic RNA	4605	0.6506937742233276	0.34930622577667236
+NC_043419 |Chickpea stunt disease associated virus|Chickpea stunt disease associated virus gene encoding coat protein| partial	584	0.09943778812885284	0.9005621671676636
+NC_043420 |Amaranthus leaf mottle virus|Amaranthus leaf mottle virus partial gene for polyprotein| genomic RNA| isolate I	1777	0.9310698509216309	0.06893014907836914
+NC_043421 |Butterfly flower mosaic virus|Butterfly flower mosaic virus partial gene for polyprotein| Hangzhou isolate| genomic RNA	1603	0.8683760166168213	0.1316239833831787
+NC_043422 |Henbane mosaic virus|Henbane mosaic virus partial gene for polyprotein| genomic RNA| isolate PHYS/H	1646	0.5931785106658936	0.40682148933410645
+NC_043423 |Malva vein clearing virus|Malva vein clearing virus partial polyprotein precursor| isolate DS-Ba-01	1832	0.8942961692810059	0.10570381581783295
+NC_043424 |Tuberose mild mottle virus|Tuberose mild mottle virus partial ORF1 for polyprotein| genomic RNA	4607	0.8058326244354248	0.1941673755645752
+NC_043425 |Tulip mosaic virus|Tulip mosaic virus gene for coat protein	1479	0.9815797209739685	0.01842029206454754
+NC_043430 |Tobacco albetovirus 3|Satellite tobacco necrosis virus C coat protein	1221	0.7527940273284912	0.2472059428691864
+NC_043431 |MPoko orthobunyavirus|M'Poko virus segment S| complete sequence| strain ArB365	955	0.8893399238586426	0.11066003143787384
+NC_043434 |Chim orthonairovirus|Chim virus strain LEIV-858Uz segment L RNA-dependent RNA-polymerase gene| partial cds	12030	0.9449740648269653	0.055025964975357056
+NC_043435 |Chim orthonairovirus|Chim virus strain LEIV-858Uz segment S nucleocapsid protein gene| partial cds	1485	0.9640630483627319	0.03593695908784866
+NC_043436 |Chim orthonairovirus|Chim virus strain LEIV-858Uz segment M glycoprotein precursor| gene| partial cds	4995	0.47636663913726807	0.5236333608627319
